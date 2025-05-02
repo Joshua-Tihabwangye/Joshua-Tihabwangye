@@ -12,11 +12,11 @@
     <td align="left">💬 Ask me about **WEB DEVELOPMENT**</td>
   </tr>
   <tr>
-    <td align="left">📫 How to reach me: [tihabwangyej@gmail.com](mailto:tihabwangyej@gmail.com)</td>
+    <td align="left">📫 How to reach me: <a href="mailto:tihabwangyej@gmail.com">tihabwangyej@gmail.com</a></td>
   </tr>
 </table>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center">
   <img alt="React" height="48" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
   <img alt="Bootstrap" height="48" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
@@ -41,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Joshua-Tihabwangye&show_icons=true&theme=dracula" alt="GitHub Stats">
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/tihabwangye-joshua-48018927a?originalSubdomain=ug" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="48" width="48" /></a>
   <a href="https://www.instagram.com/joshua.t.walker/?hl=en" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="48" width="48" /></a>
