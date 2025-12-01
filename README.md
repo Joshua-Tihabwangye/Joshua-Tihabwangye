@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [RESTAURANT MANAGEMENT SYSTEM](https://github.com/Joshua-Tihabwangye/RMS256)
 
-- 🌱 I’m currently learning **NEXT.JS, EXPRESS.JS**
+- 🌱 I’m currently learning **NEXT.JS and  EXPRESS.JS**
 
 - 👯 I’m looking to collaborate on **API DEVELOPMENT USING PYTHON**
 
-- 💬 Ask me about **DJANGO,REACT, PAPER CURATION**
+- 💬 Ask me about **DJANGO, REACT and  PAPER CURATION**
 
 - 📫 How to reach me **tihabwangyej@gmail.com**
 
-- ⚡ Fun fact **I LOVE TO CODE AS I LISTEM TO R&B MUSIC**
+- ⚡ Fun fact **I LOVE TO CODE AS I LISTEn TO R&B MUSIC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,3 +33,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshua-tihabwangye&show_icons=true&locale=en" alt="joshua-tihabwangye" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshua-tihabwangye&" alt="joshua-tihabwangye" /></p>
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Tihabwangye)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joshua-Tihabwangye)
+
