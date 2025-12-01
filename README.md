@@ -2,17 +2,25 @@
 <h3 align="center">A Passionate Software Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Joshua-Tihabwange&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=Joshua-Tihabwangye&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Joshua-Tihabwangye&theme=flat&no-frame=true&margin-w=5" alt="trophies" />
 </p>
 
 ---
 
 ### 🔥 About Me
 
-- 🔭 I’m currently working on **[RESTAURANT MANAGEMENT SYSTEM](https://github.com/Joshua-Tihabwange/RMS256)**
+- 🔭 I’m currently working on **[RESTAURANT MANAGEMENT SYSTEM](https://github.com/Joshua-Tihabwangye/RMS256)**
 - 🌱 I’m learning **Next.js & Express.js**
 - 👯 I’m looking to collaborate on **API Development using Python**
-- 💬 Ask me about **Django, React, and Paper Curation**
+- 💬 Ask me about **Django, React & Paper Curation**
 - 📫 Reach me at **tihabwangyej@gmail.com**
 - ⚡ Fun fact: **I love coding while listening to R&B 🎵**
 
@@ -111,7 +119,7 @@
 <div align="center">
 
   <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Joshua-Tihabwange&theme=default" alt="streak-stats" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Joshua-Tihabwange&theme=default" width="60%" />
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Tihabwange&layout=compact&langs_count=8" width="45%" />
@@ -128,10 +136,10 @@
 <div align="center">
 
   <!-- Profile Details Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joshua-Tihabwange&theme=default" alt="profile-details-card" width="80%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joshua-Tihabwange&theme=default" width="80%" />
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joshua-Tihabwange&theme=github" alt="activity-graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joshua-Tihabwange&theme=github" width="90%" />
 
 </div>
 
