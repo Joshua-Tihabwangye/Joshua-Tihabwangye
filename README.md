@@ -119,13 +119,13 @@
 <div align="center">
 
   <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Joshua-Tihabwange&theme=default" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Joshua-Tihabwangye&theme=default" width="60%" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Tihabwange&layout=compact&langs_count=8" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Tihabwangye&layout=compact&langs_count=8" width="45%" />
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Joshua-Tihabwange&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Joshua-Tihabwangye&show_icons=true" width="48%" />
 
 </div>
 
@@ -136,10 +136,10 @@
 <div align="center">
 
   <!-- Profile Details Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joshua-Tihabwange&theme=default" width="80%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joshua-Tihabwangye&theme=default" width="80%" />
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joshua-Tihabwange&theme=github" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joshua-Tihabwangye&theme=github" width="90%" />
 
 </div>
 
