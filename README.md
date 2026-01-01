@@ -10,12 +10,12 @@
 ## 🏆 Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Joshua-Tihabwangye&theme=flat&no-frame=true&margin-w=5" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Joshua-Tihabwangye&theme=flat&no-frame=true&margin-w=10&row=1&column=6" alt="trophies" />
 </p>
 
 ---
 
-### 🔥 About Me
+## 🔥 About Me
 
 - 🔭 I’m currently working on **[RESTAURANT MANAGEMENT SYSTEM](https://github.com/Joshua-Tihabwangye/RMS256)**
 - 🌱 I’m learning **Next.js & Express.js**
@@ -28,87 +28,93 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://twitter.com/joshua.t.walker" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
+<p align="center">
+  <a href="https://twitter.com/joshua_t_walker" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  </a>
 
-<a href="https://linkedin.com/in/tihabwangye joshua" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/tihabwangye-joshua-48018927a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
 
-<a href="https://fb.com/joshua t walker" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>
 
-<a href="https://instagram.com/joshua t walker" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
+<p align="center">
 
-<!-- Python, FastAPI, Swagger, Django -->
-<a href="https://www.python.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
-</a>
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
-</a>
-<a href="https://swagger.io/tools/swagger-ui/" target="_blank">
-  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="40" height="40"/>
-</a>
-<a href="https://www.djangoproject.com/" target="_blank"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/> 
-</a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+  </a>
 
-<!-- JS/TS, React -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> 
-</a>
-<a href="https://reactjs.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
-</a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
+  </a>
 
-<!-- Backend & Databases -->
-<a href="https://nodejs.org" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
-</a>
-<a href="https://www.mysql.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
-</a>
-<a href="https://www.postgresql.org" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> 
-</a>
-<a href="https://www.mongodb.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> 
-</a>
+  <a href="https://swagger.io/tools/swagger-ui/" target="_blank">
+    <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="45" height="45"/>
+  </a>
 
-<!-- Styling -->
-<a href="https://tailwindcss.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> 
-</a>
-<a href="https://getbootstrap.com" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/> 
-</a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="45"/>
+  </a>
 
-<!-- Tools -->
-<a href="https://git-scm.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
-</a>
-<a href="https://postman.com" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> 
-</a>
-<a href="https://docker.com" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> 
-</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
+  </a>
+
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
+  </a>
+
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
+  </a>
+
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/>
+  </a>
+
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
+  </a>
+
+  <a href="https://postman.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
+  </a>
+
+  <a href="https://docker.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45"/>
+  </a>
 
 </p>
 
@@ -118,14 +124,13 @@
 
 <div align="center">
 
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Joshua-Tihabwangye&theme=default" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=Joshua-Tihabwangye&theme=default&hide_border=true" width="60%" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Tihabwangye&layout=compact&langs_count=8" width="45%" />
+  <br/><br/>
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Joshua-Tihabwangye&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Joshua-Tihabwangye&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Tihabwangye&layout=compact&langs_count=8&cache_seconds=1800" width="40%" />
 
 </div>
 
@@ -135,11 +140,11 @@
 
 <div align="center">
 
-  <!-- Profile Details Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joshua-Tihabwangye&theme=default" width="80%" />
 
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joshua-Tihabwangye&theme=github" width="90%" />
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joshua-Tihabwangye&theme=github-compact&hide_border=true" width="90%" />
 
 </div>
 
