@@ -17,7 +17,7 @@
 
 ## 🔥 About Me
 
-- 🔭 I’m currently working on **[RESTAURANT MANAGEMENT SYSTEM](https://github.com/Joshua-Tihabwangye/RMS256)**
+- 🔭 I’m currently working on **Ev-Zone Projects**
 - 🌱 I’m learning **Next.js & Express.js**
 - 👯 I’m looking to collaborate on **API Development using Python**
 - 💬 Ask me about **Django, React & Paper Curation**
